@@ -30,7 +30,7 @@ Głównym celem projektu jest sprawdzenie, jak kontrolowane modyfikacje danych w
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/pastel-glyph/64/FFFFFF/code--v2.png" height="22px"/> <strong>Technologie i środowisko</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -47,7 +47,7 @@ Głównym celem projektu jest sprawdzenie, jak kontrolowane modyfikacje danych w
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/pin.png" height="22px"/> <strong>Główne założenia projektu</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -67,7 +67,7 @@ Projekt został przygotowany tak, aby:
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/brick-wall.png" height="22px"/> <strong>Cechy projektu</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -86,7 +86,7 @@ Projekt został przygotowany tak, aby:
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/database.png" height="22px"/> <strong>Opis danych i zbioru użytego w projekcie</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -128,7 +128,7 @@ Taka forma danych została wykorzystana do trenowania modeli, walidacji oraz por
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/settings.png" height="22px"/> <strong>Preprocessing i feature engineering</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -152,7 +152,7 @@ W projekcie wykonano kilka etapów przygotowania danych, aby zbiór Titanic móg
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/lock.png" height="22px"/> <strong>Opis metod anonimizacji i zaszumiania danych</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -212,7 +212,7 @@ Większość wartości pozostaje bez zmian, ale część rekordów otrzymuje kon
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/brain.png" height="22px"/> <strong>Wykorzystane modele uczenia maszynowego</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -235,7 +235,7 @@ Modele zostały porównane na tych samych cechach oraz na tym samym podziale wal
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/checklist.png" height="22px"/> <strong>Specyfikacja eksperymentu</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -259,7 +259,7 @@ Modele zostały porównane na tych samych cechach oraz na tym samym podziale wal
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/todo-list.png" height="22px"/> <strong>Kroki podjęte w projekcie</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -301,7 +301,7 @@ flowchart TD
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/combo-chart.png" height="22px"/> <strong>Wyniki i wizualizacje</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -362,7 +362,7 @@ flowchart TD
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/idea.png" height="22px"/> <strong>Wnioski z projektu</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -377,7 +377,7 @@ W tym projekcie Moving Buckets okazało się mniej inwazyjne i bardziej stabilne
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/folder-invoices--v1.png" height="22px"/> <strong>Struktura repozytorium</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -398,7 +398,7 @@ W tym projekcie Moving Buckets okazało się mniej inwazyjne i bardziej stabilne
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/rocket.png" height="22px"/> <strong>Uruchomienie projektu</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
@@ -441,7 +441,7 @@ Następnie należy otworzyć plik `test-jup.ipynb` i uruchomić komórki noteboo
 
 ---
 
-<details>
+<details open>
   <summary><img src="https://img.icons8.com/ios-filled/50/FFFFFF/certificate.png" height="22px"/> <strong>Licencja</strong> (kliknij, aby rozwinąć)</summary>
 
 ---
