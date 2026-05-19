@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://img.icons8.com/ios-filled/50/FFFFFF/artificial-intelligence.png" height="28px" />
-  anonymized-data-Titanic
+  Analiza wydajności modeli ML na czystych, zaszumionych i zanonimizowanych danych Titanic
 </h1>
 
 <p align="center">
@@ -81,7 +81,6 @@ Projekt został przygotowany tak, aby:
 - porównanie modeli klasycznych, drzewiastych i boostingowych,
 - ocena modeli na tym samym podziale train/validation,
 - przygotowanie finalnego pliku predykcji `submission.csv`,
-- graficzne podsumowanie wyników z wykorzystaniem krzywej ROC.
 
 </details>
 
@@ -196,7 +195,7 @@ probs = [0.0075, 0.015, 0.955, 0.015, 0.0075]
 
 Większość wartości pozostaje bez zmian, ale część rekordów otrzymuje kontrolowaną modyfikację. Dzięki temu trudniej jest jednoznacznie odtworzyć oryginalną wartość konkretnego rekordu.
 
-**Metody anonimizacji i zaszumiania omawiane w projekcie:**
+**Inne rozpatrywane metody anonimizacji i zaszumiania w projekcie:**
 
 | Metoda | Typ metody | Typ danych | Krótki opis |
 |---|---|---|---|
